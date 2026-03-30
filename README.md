@@ -1,4 +1,4 @@
-# rfa-visual-dashboard
+# FashionBrand-visual-dashboard
 > A project i undertook to breakdown, visualize and interpret a fashion brand's data to provide insights and ease business health assessments.
 > A business performance dashboard built in Looker Studio for a fashion retail brand, 
 > tracking product sales, expense breakdown, and daily profitability.
@@ -17,10 +17,12 @@ This dashboard provides the RFA brand with real-time visibility into:
 
 ## Screenshots
 ### Performance Page
-![Performance Page](assets/performance_page.png)
+![Performance Page](assets/PerformancePage1.png)
+![Performance Page](assets/PerformancePage2.png)
+![Performance Page](assets/Sanitized_P&L.png)
 
 ### Forecast Page
-![Forecast Page](assets/forecast_page.png)
+![Forecast Page](assets/ForecastPage.png)
 
 ## Data
 - Source: Internal sales and expense records
